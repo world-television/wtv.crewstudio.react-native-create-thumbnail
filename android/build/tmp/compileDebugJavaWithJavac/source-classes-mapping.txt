@@ -1,0 +1,6 @@
+com/reactlibrary/createthumbnail/BuildConfig.java
+ com.reactlibrary.createthumbnail.BuildConfig
+com/createthumbnail/CreateThumbnailModule.java
+ com.reactlibrary.createthumbnail.CreateThumbnailModule
+com/createthumbnail/CreateThumbnailPackage.java
+ com.reactlibrary.createthumbnail.CreateThumbnailPackage

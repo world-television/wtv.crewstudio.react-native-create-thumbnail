@@ -1,0 +1,20 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.reactlibrary.createthumbnail"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->/home/duongtungls/XponDigital/Projects/WTV-Crewstudio/wtv-ugc-app/node_modules/react-native-create-thumbnail/android/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->/home/duongtungls/XponDigital/Projects/WTV-Crewstudio/wtv-ugc-app/node_modules/react-native-create-thumbnail/android/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->/home/duongtungls/XponDigital/Projects/WTV-Crewstudio/wtv-ugc-app/node_modules/react-native-create-thumbnail/android/src/main/AndroidManifest.xml:3:5-80
+11-->/home/duongtungls/XponDigital/Projects/WTV-Crewstudio/wtv-ugc-app/node_modules/react-native-create-thumbnail/android/src/main/AndroidManifest.xml:3:22-78
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->/home/duongtungls/XponDigital/Projects/WTV-Crewstudio/wtv-ugc-app/node_modules/react-native-create-thumbnail/android/src/main/AndroidManifest.xml:4:5-79
+12-->/home/duongtungls/XponDigital/Projects/WTV-Crewstudio/wtv-ugc-app/node_modules/react-native-create-thumbnail/android/src/main/AndroidManifest.xml:4:22-77
+13
+14</manifest>
